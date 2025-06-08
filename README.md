@@ -44,7 +44,9 @@ This project analyzes Wavecon's performance **before and after the 5G launch** u
 - Survey Tier-1 metros for dissatisfaction causes (NPS/CSAT)
 - Monitor revenue trends monthly
 
-> ![Revenue Analysis](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%201.1.JPG)
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%201.1.JPG)
+
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%201.2.JPG)
 
 ---
 
@@ -60,7 +62,11 @@ This project analyzes Wavecon's performance **before and after the 5G launch** u
 - Audit 5G performance in top-declining cities
 - Analyze Mumbai (only city with reduced churn) for retention insights
 
-> ![User Engagement](images/kpi_user_engagement.png)
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%202.1.JPG)
+
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%202.2.JPG)
+
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%202.3.JPG)
 
 ---
 
@@ -81,7 +87,7 @@ This project analyzes Wavecon's performance **before and after the 5G launch** u
 - Discontinue outdated plans
 - Launch upgrade nudges for legacy users
 
-> ![Plan Performance](images/plan_comparison.png)
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%203.JPG)
 
 ---
 
@@ -94,6 +100,8 @@ This project analyzes Wavecon's performance **before and after the 5G launch** u
 - Phase out P5–P7
 - Shift users to modern daily data packs like P1, P11
 
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%204.JPG)
+
 ---
 
 ### 5️⃣ Which plans were discontinued post-5G, and why?
@@ -105,6 +113,8 @@ This project analyzes Wavecon's performance **before and after the 5G launch** u
 **💡 Recommendations:**
 - Guide legacy users toward P13 as a starter 5G plan
 - Track migration and reduce churn risk
+
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%205.JPG)
 
 ---
 
@@ -126,7 +136,9 @@ This project analyzes Wavecon's performance **before and after the 5G launch** u
 - Run satisfaction & awareness campaigns
 - Improve onboarding and feature communication
 
-> ![Market Share Trends](images/market_share_trends.png)
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Market%20Share%20Competitiors%20VS%20Wavecon.JPG)
+
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Market%20Share%20Wavecon.JPG)
 
 ---
 
