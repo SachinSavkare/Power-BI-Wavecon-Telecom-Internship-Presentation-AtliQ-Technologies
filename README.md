@@ -22,8 +22,10 @@ This project analyzes Wavecon's performance **before and after the 5G launch** u
 ---
 
 ## 📸 Power BI Dashboard 
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Wavecon%20Dashboard.JPG)
 
 
+![Alt text](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Wavecon%20KPIs.JPG)
  
 
 ---
@@ -42,7 +44,7 @@ This project analyzes Wavecon's performance **before and after the 5G launch** u
 - Survey Tier-1 metros for dissatisfaction causes (NPS/CSAT)
 - Monitor revenue trends monthly
 
-> ![Revenue Analysis](images/revenue_impact.png)
+> ![Revenue Analysis](https://github.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/blob/main/Problem%20Statement%201.1.JPG)
 
 ---
 
