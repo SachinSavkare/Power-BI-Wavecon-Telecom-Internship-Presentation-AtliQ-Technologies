@@ -12,6 +12,10 @@ This project analyzes Wavecon's performance **before and after the 5G launch** u
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/SachinSavkare/Power-BI-Wavecon-Telecom-Internship-Presentation-AtliQ-Technologies/main/Thumbnail.png)](https://www.youtube.com/watch?v=kWSLgQ6pjgw)
+
+---
+
 ## 📍 Project Objectives
 
 - Evaluate Wavecon’s **revenue** and **user engagement** post-5G
